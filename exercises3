@@ -1,0 +1,9 @@
+bicycles = ['trek', 'redline', 'specialized']
+print(bicycles[1])
+print(bicycles[2])
+
+print("Hello World!")
+
+
+msg = 'hello'
+print(msg)
